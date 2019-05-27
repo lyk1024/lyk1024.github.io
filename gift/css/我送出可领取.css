@@ -1,0 +1,88 @@
+html {
+	font-size: 50px;
+}
+.font{
+	font-weight: 700;
+	/* font-size: .65rem; */
+	}
+body{
+	font-size: .42rem;
+}
+section.title {
+    display: flex;
+    justify-content: center;
+	padding: 5% 0;
+}
+.container-img{
+	display: flex;
+	justify-content: center;
+	padding: 5% 0;
+	font-size: .42rem;
+}
+
+.container-word{
+	display: flex;
+	justify-content: center;
+	padding: 2% 0;
+	font-size: .42rem;
+}
+.container{
+	padding: %5 %5;
+}
+
+.price{
+	
+	margin: 3% 3%;
+	padding: 5% 5%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	border-radius:.1rem;
+	border: 1px solid #FFECEC;
+	
+}
+.price p{
+	width: 3.1rem;
+	font-size: .36rem;
+	margin: 3% 0;
+	
+	
+}
+.price-right{
+	text-align: right;
+
+}
+.xinyun{
+	display: flex;
+	justify-content: space-between;
+	font-size: .28rem;
+	color: #888888;
+	padding: 2% 3%;
+}
+.yilingqu{
+	padding: 3% 3%;
+	background: #FBFBFB;
+	display: flex;
+	justify-content: space-between;
+	font-size: .35rem;
+	color: #888888;	
+}
+.yilingqu a{
+	text-decoration: underline;
+	color: #5AC85A;
+}
+.yilingqu-r{
+	display: flex;
+}
+.mingdan{
+	padding: 3% 3%;
+	font-size: .3rem;
+	color: #888888;	
+	display: flex;
+	justify-content: space-between;
+	
+}
+.mingdan-child{
+	display: flex;
+	justify-content: space-between;
+}

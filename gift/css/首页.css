@@ -1,0 +1,77 @@
+html {
+	font-size: 50px;
+}
+
+.wrapper {
+	font-size: .42rem;
+}
+
+section.wrapper img {
+	width: 100%;
+}
+
+.img01 {
+	position: relative;
+}
+
+.header-word {
+	position: absolute;
+	top: 36%;
+	left: 44%;
+	font-size: 0.48rem;
+	font-family: 黑体;
+}
+
+.img02 {
+	position: relative;
+	padding-left: 6%;
+	padding-right: 6%;
+	padding-top: 8%;
+}
+
+
+.huangguan {
+
+	position: absolute;
+	top: 14%;
+	left: 90%;
+
+}
+
+.shutiao {
+	position: absolute;
+	top: 30%;
+	left: 98%;
+}
+
+
+
+.img03 img {
+	width: 70% !important;
+}
+
+.img03 {
+	padding: 4% 0;
+	display: flex;
+	justify-content: center;（这个是纵向的居中）
+	 align-items: center;（这个是横向的居中）
+	
+}
+
+.img-ul li{
+	padding-left: 6%;
+	padding-right: 6%;
+	padding-top: 3%;
+}
+
+.footer{
+	
+	margin:6% 0;
+	display: flex;
+	color: #0000FF;
+	justify-content :space-around;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}

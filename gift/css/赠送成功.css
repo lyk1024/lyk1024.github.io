@@ -1,0 +1,45 @@
+html {
+	font-size: 50px;
+}
+
+section.title {
+    display: flex;
+    justify-content: center;
+	padding: 5% 0;
+}
+.container-img{
+	display: flex;
+	justify-content: center;
+	padding: 5% 0;
+	font-size: .42rem;
+}
+.container-img img{
+	width: 1.8rem;
+	height: 1.8rem;
+}
+.container-word{
+	display: flex;
+	justify-content: center;
+	padding: 2% 0;
+	font-size: .42rem;
+}
+.submit{
+	margin: 0 5%;
+	display: flex;
+	justify-content: center;
+}
+.submit img{
+	width: 100%;
+}
+
+.detail{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 5%;
+	padding-top:30%;
+	font-size: .28rem;
+}
+.detail p{
+	margin: auto;
+}
